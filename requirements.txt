@@ -1,0 +1,5 @@
+getch
+rich
+google-generativeai
+google-auth-oauthlib
+flask
