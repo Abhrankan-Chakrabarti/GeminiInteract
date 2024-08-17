@@ -1,4 +1,5 @@
 from main import *
+from console_menu import Console, Menu
 
 def mode_selector():
     console = Console(width=59, height=30)
